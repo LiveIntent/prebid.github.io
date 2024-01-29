@@ -13,7 +13,6 @@ There are two ways to add the functionality of LiveIntent Identity sub-module to
 
 1. The standard version, which allows publishers to include the module with full functionalities, like hashing email addresses and identity resolution.
 Add the **standard** LiveIntent Identity module to your Prebid.js package with:
-
 ```bash
 gulp build --modules=userId,liveIntentIdSystem
 ```
