@@ -17,7 +17,6 @@ Add the **standard** LiveIntent Identity module to your Prebid.js package with:
 ```bash
 gulp build --modules=userId,liveIntentIdSystem
 ```
-
 2. The minimal version, which allows publishers to deploy a smaller bundle with minimal features, including identity resolution.
 Add the **minimal** LiveIntent Identity module to your Prebid.js package with:
 
