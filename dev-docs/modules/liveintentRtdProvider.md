@@ -50,5 +50,5 @@ pbjs.setConfig({
 {: .table .table-bordered .table-striped }
 | Name             |Type           | Description                                                         |Required | Notes  |
 | :--------------- | :------------ | :------------------------------------------------------------------ |:---------|:------------ |
-| `name`           | String        | Real time data module name                                          | yes     | Always 'a1Media' |
+| `name`           | String        | Real time data module name                                          | yes     | Always 'liveintent' |
 | `waitForIt`      | Boolean       | Should be `true` if there's an `auctionDelay` defined (recommended) | no      | Default `false` |
