@@ -8,8 +8,8 @@ module_type: rtd
 module_code : jwplayerRtdProvider
 enable_download : true
 vendor_specific: true
-sidebarType : 1
----
+[sidebarType : 1
+]()---
 
 # JW Player RTD Provider
 
