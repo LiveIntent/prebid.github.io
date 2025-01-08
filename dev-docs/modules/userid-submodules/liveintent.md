@@ -103,7 +103,8 @@ pbjs.setConfig({
 
 The attributes `uid2`, `medianet`, `magnite`, `bidswitch`, `pubmatic`, `openx`, `sovrn`, `index`, `thetradedesk`, `vidazoo` , `fpid` and `segments` are treated specially by LiveIntent's user ID sub-module. Each of these attributes will result in a separate ID returned by the sub-module. 
 
-#### Note:
+#### Note
+
 * `thetradedesk` will be exposed as `tdid` because of historical reasons.
 * In order for `segments` to be present in `ortb2.user.data` in your bid request, you need to configure the [liveIntentRTDProvider](/dev-docs/modules/liveIntentRtdProvider.html) module. 
 
