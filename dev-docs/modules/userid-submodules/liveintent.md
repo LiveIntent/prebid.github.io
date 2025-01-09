@@ -101,7 +101,7 @@ pbjs.setConfig({
 
 ### Multiple user IDs
 
-The attributes `uid2`, `medianet`, `magnite`, `bidswitch`, `pubmatic`, `openx`, `sovrn`, `index`, `thetradedesk`, `vidazoo` , `fpid` and `segments` are treated specially by LiveIntent's user ID sub-module. Each of these attributes will result in a separate ID returned by the sub-module. 
+The attributes `uid2`, `medianet`, `magnite`, `bidswitch`, `pubmatic`, `openx`, `sovrn`, `index`, `thetradedesk`, `vidazoo` and `fpid` are treated specially by LiveIntent's user ID sub-module. Each of these attributes will result in a separate ID returned by the sub-module.
 
 #### Note
 
